@@ -7,6 +7,7 @@
     <title>ini test commit 2</title>
 </head>
 <body>
-    
+    <h1>ini commit dev</h1>
+    <h2>ini commit dev 2</h2>
 </body>
 </html>
